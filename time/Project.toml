@@ -2,5 +2,7 @@
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 LinearInterpolators = "2fc109c4-9d77-11e9-32ff-e5c650334c16"
+LinearMapsAA = "599c1a8e-b958-11e9-0d14-b1e6b2ecea07"
 MATLAB = "10e44e05-a98a-55b3-a45b-ba969058deb6"
 OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+SPECTrecon = "ab1be465-a7f0-4423-9048-0ee774b70ed9"
